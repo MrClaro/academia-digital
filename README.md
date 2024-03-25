@@ -62,12 +62,14 @@
 >  > Para utilizar diretamente por este método, é necessário que ele não tenha uma matrícula vinculada a ele, assim, ao deletar o aluno, suas avaliações vinculadas serão excluidas junto.
 
 <h3>Avaliação Física</h3>
+
 >POST - /avaliacoes - deve-se passar o corpo da requisição seguindo o seguinte formato, sendo a altura informada em Cm, ex: 171.0:
 
 
         {   "alunoId" : #,
             "peso" : ##.#,
             "altura" : ###.# }
+
 
 >PUT - /avaliacoes/{id} - para efetuar a atualização deve-se passar o corpo da requisição seguindo o seguinte formato:
 
@@ -82,6 +84,7 @@
 
 
 <h3>Matrícula</h3>
+
 >POST - /matriculas - deve-se passar o corpo da requisição seguindo o seguinte formato, sendo a altura informada em Cm, ex: 171.0:
 
 
