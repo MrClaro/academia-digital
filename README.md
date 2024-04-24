@@ -34,7 +34,7 @@
 
 <h2> Endpoints da Aplicação </h2>
 
->Utilize o Postman para poder realizar a utilizaçào de todos os verbos.
+>Utilize o Postman para poder realizar a utilizaçào de todos os verbos HTTP.
 
 <h3>Alunos</h3>
 
