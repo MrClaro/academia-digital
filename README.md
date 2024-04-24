@@ -32,7 +32,7 @@
 </ol>
 
 
-<h2> Verbos HTTP </h2>
+<h2> Endpoints da Aplicação </h2>
 
 >Utilize o Postman para poder realizar a utilizaçào de todos os verbos.
 
